@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\LabFour\LabFour\bin\Debug\LabFour.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\LabFour\LabFour\bin\Debug\LabFour.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabFour\LabFour\bin\Debug\LabFour.pdb
+C:\Users\Administrator\source\repos\GrandCircus\LabFour\LabFour\obj\Debug\LabFour.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabFour\LabFour\obj\Debug\LabFour.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabFour\LabFour\obj\Debug\LabFour.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabFour\LabFour\obj\Debug\LabFour.pdb
